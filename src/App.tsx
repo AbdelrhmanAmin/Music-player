@@ -1,5 +1,7 @@
+import Player from "./Components/Player";
+
 function App() {
-  return <></>;
+  return <Player />;
 }
 
 export default App;
